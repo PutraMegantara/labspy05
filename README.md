@@ -174,6 +174,11 @@ elif c. lower() == 'k':
         break
 ```
 ### Output
+ ![Screenshot (76)](https://user-images.githubusercontent.com/92736847/145681118-bafba724-4383-4e92-94a4-d6e3c151f949.png)
+ 
+ ![png](https://user-images.githubusercontent.com/92736847/145681584-e88362c5-bd81-4442-a631-0a9ae2fb53a3.png)
+
+
 
 
 
